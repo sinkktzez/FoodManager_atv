@@ -63,37 +63,33 @@ Antes da instalação, certifique-se de possuir:
 
 ## 📥 Instalação
 
-Clone o repositório:
+- Clone o repositório:
 
 
 git clone https://github.com/foodmanager/app.git
 
 
-Acesse o diretório do projeto:
+- Acesse o diretório do projeto:
 
 cd foodmanager
 
 
-Instale as dependências:
+- Instale as dependências:
 
 npm install
-
 
 ---
 
 ## ▶️ Execução do Projeto
 
-Inicie o servidor de desenvolvimento:
-
+- Inicie o servidor de desenvolvimento:
 
 npm start
 
 
-O sistema estará disponível em:
-
+- O sistema estará disponível em:
 
 http://localhost:3000
-
 
 ---
 
@@ -109,7 +105,6 @@ Senha: admin123
 
 Email: cliente@foodmanager.com
 Senha: cliente123
-
 
 ---
 

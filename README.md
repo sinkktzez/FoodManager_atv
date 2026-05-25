@@ -15,38 +15,41 @@ A plataforma centraliza processos operacionais, reduzindo filas, otimizando o co
 ## 🚀 Funcionalidades Principais
 
 ### 👤 Área do Cliente
-- Cadastro e autenticação de usuários;
-- Reserva de mesas em tempo real;
-- Visualização do cardápio digital;
-- Realização de pedidos online;
-- Acompanhamento do status do pedido;
-- Histórico de pedidos e reservas.
+
+* Cadastro e autenticação de usuários
+* Reserva de mesas em tempo real
+* Visualização do cardápio digital
+* Realização de pedidos online
+* Acompanhamento do status do pedido
+* Histórico de pedidos e reservas
 
 ### 🛠️ Painel Administrativo
-- Gerenciamento de mesas e reservas;
-- Controle de pedidos ativos;
-- Cadastro e edição de produtos;
-- Atualização de preços e disponibilidade;
-- Upload de imagens para o cardápio;
-- Relatórios básicos de vendas e movimentação.
+
+* Gerenciamento de mesas e reservas
+* Controle de pedidos ativos
+* Cadastro e edição de produtos
+* Atualização de preços e disponibilidade
+* Upload de imagens para o cardápio
+* Relatórios básicos de vendas e movimentação
 
 ### 💳 Integrações
-- Integração com gateways de pagamento;
-- Notificações automáticas por e-mail;
-- Compatibilidade com dispositivos móveis.
+
+* Integração com gateways de pagamento
+* Notificações automáticas por e-mail
+* Compatibilidade com dispositivos móveis
 
 ---
 
 ## 🧩 Tecnologias Utilizadas
 
-| Tecnologia | Finalidade |
-|---|---|
-| Node.js | Back-end da aplicação |
+| Tecnologia | Finalidade                   |
+| ---------- | ---------------------------- |
+| Node.js    | Back-end da aplicação        |
 | Express.js | Gerenciamento de rotas e API |
-| React | Interface web |
-| MongoDB | Banco de dados |
-| JWT | Autenticação de usuários |
-| Docker | Containerização do sistema |
+| React      | Interface web                |
+| MongoDB    | Banco de dados               |
+| JWT        | Autenticação de usuários     |
+| Docker     | Containerização do sistema   |
 
 ---
 
@@ -54,42 +57,48 @@ A plataforma centraliza processos operacionais, reduzindo filas, otimizando o co
 
 Antes da instalação, certifique-se de possuir:
 
-- Node.js 18 ou superior;
-- npm ou yarn;
-- MongoDB instalado localmente ou em nuvem;
-- Git configurado na máquina.
+* Node.js 18 ou superior
+* npm ou yarn
+* MongoDB instalado localmente ou em nuvem
+* Git configurado na máquina
 
 ---
 
 ## 📥 Instalação
 
-- Clone o repositório:
+### 1. Clone o repositório
 
-
+```bash
 git clone https://github.com/foodmanager/app.git
+```
 
+### 2. Acesse o diretório do projeto
 
-- Acesse o diretório do projeto:
-
+```bash
 cd foodmanager
+```
 
+### 3. Instale as dependências
 
-- Instale as dependências:
-
+```bash
 npm install
+```
 
 ---
 
 ## ▶️ Execução do Projeto
 
-- Inicie o servidor de desenvolvimento:
+### Inicie o servidor de desenvolvimento
 
+```bash
 npm start
+```
 
+### Acesse no navegador
 
-- O sistema estará disponível em:
-
+```txt
 http://localhost:3000
+```
 
 ---
 
@@ -97,28 +106,31 @@ http://localhost:3000
 
 ### Administrador
 
+```txt
 Email: admin@foodmanager.com
 Senha: admin123
-
+```
 
 ### Cliente
 
+```txt
 Email: cliente@foodmanager.com
 Senha: cliente123
+```
 
 ---
 
 ## 📱 Plataformas Suportadas
 
-- Navegadores Web;
-- Android 10+;
-- iOS 14+.
+* Navegadores Web
+* Android 10+
+* iOS 14+
 
 ---
 
 ## 📂 Estrutura Básica do Projeto
 
-
+```txt
 foodmanager/
 ├── backend/
 ├── frontend/
@@ -126,16 +138,14 @@ foodmanager/
 ├── docs/
 ├── public/
 └── README.md
-
+```
 
 ---
 
 ## 🐞 Suporte e Manutenção
 
-Em caso de falhas, dúvidas técnicas ou sugestões de melhoria, entre em contato com a equipe de desenvolvimento pelo e-mail:
+Em caso de falhas, dúvidas técnicas ou sugestões de melhoria, entre em contato com a equipe de desenvolvimento:
 
+```txt
 support@foodmanager.com
-
-
-
-
+```

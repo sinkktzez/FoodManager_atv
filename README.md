@@ -1,4 +1,3 @@
-````markdown
 # 🍽️ FoodManager
 
 Sistema de gerenciamento inteligente para restaurantes, desenvolvido para facilitar reservas de mesas, pedidos online e administração de cardápios digitais em uma única plataforma.
@@ -66,21 +65,19 @@ Antes da instalação, certifique-se de possuir:
 
 Clone o repositório:
 
-```bash
+
 git clone https://github.com/foodmanager/app.git
-```
+
 
 Acesse o diretório do projeto:
 
-```bash
 cd foodmanager
-```
+
 
 Instale as dependências:
 
-```bash
 npm install
-```
+
 
 ---
 
@@ -88,31 +85,31 @@ npm install
 
 Inicie o servidor de desenvolvimento:
 
-```bash
+
 npm start
-```
+
 
 O sistema estará disponível em:
 
-```txt
+
 http://localhost:3000
-```
+
 
 ---
 
 ## 🔐 Credenciais de Teste
 
 ### Administrador
-```txt
+
 Email: admin@foodmanager.com
 Senha: admin123
-```
+
 
 ### Cliente
-```txt
+
 Email: cliente@foodmanager.com
 Senha: cliente123
-```
+
 
 ---
 
@@ -126,7 +123,7 @@ Senha: cliente123
 
 ## 📂 Estrutura Básica do Projeto
 
-```txt
+
 foodmanager/
 ├── backend/
 ├── frontend/
@@ -134,7 +131,7 @@ foodmanager/
 ├── docs/
 ├── public/
 └── README.md
-```
+
 
 ---
 
@@ -142,14 +139,8 @@ foodmanager/
 
 Em caso de falhas, dúvidas técnicas ou sugestões de melhoria, entre em contato com a equipe de desenvolvimento pelo e-mail:
 
-```txt
 support@foodmanager.com
-```
 
----
 
-## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT.
-Consulte o arquivo `LICENSE` para mais informações.
-````
+
